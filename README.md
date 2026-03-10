@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fireweld Tesfaye</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate frontend developer from Ethiopia
+Participant in A2SV (Africa to Silicon Valley), a software engineering training program supported by Google, where I focus on mastering Data Structures and Algorithms through consistent practice on LeetCode. I work on solving complex algorithmic problems, improving optimization techniques, and strengthening my problem-solving mindset while learning software engineering best practices.
+</h3>
 
 - 🔭 I’m currently working on **full stack projects**
 
