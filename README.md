@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fireweld Tesfaye</h1>
-<h3 align="center">A passionate Full stack developer from Ethiopia</h3>
-<p align="center">A Computer Science and Engineering Student at Adama Science and Technology University and participant in <strong>A2SV</strong> (Africa to Silicon Valley), a software engineering training program supported by <strong>Google</strong>, where I focus on mastering Data Structures and Algorithms through consistent practice on LeetCode. I work on solving complex algorithmic problems, improving optimization techniques, and strengthening my problem-solving mindset while learning software engineering best practices.</p>
+<h3 align="center">A passionate Full stack developer </h3>
 
 - 🔭 I’m currently working on **full stack projects**
 
